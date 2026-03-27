@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\Desktop\\MyDataStructures_(0)\\MyDataStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0ED404-B662-4E21-AFB2-2511DF2B3DB9}|Test\\Test.csproj|c:\\users\\user\\onedrive\\desktop\\mydatastructures_(0)\\mydatastructures\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0ED404-B662-4E21-AFB2-2511DF2B3DB9}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AA6629-AB7A-4420-B466-040840CBB14D}|MyQueueLib\\MyQueueLib.csproj|c:\\users\\user\\onedrive\\desktop\\mydatastructures_(0)\\mydatastructures\\myqueuelib\\myqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AA6629-AB7A-4420-B466-040840CBB14D}|MyQueueLib\\MyQueueLib.csproj|solutionrelative:myqueuelib\\myqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3E560C-948F-46FE-91C4-C6CF9504BA1A}|MyLinkedList\\MyLinkedList.csproj|c:\\users\\user\\onedrive\\desktop\\mydatastructures_(0)\\mydatastructures\\mylinkedlist\\mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3E560C-948F-46FE-91C4-C6CF9504BA1A}|MyLinkedList\\MyLinkedList.csproj|solutionrelative:mylinkedlist\\mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031E95FA-3347-44F3-8E52-987F83574445}|MyStack\\MyStackLib.csproj|c:\\users\\user\\onedrive\\desktop\\mydatastructures_(0)\\mydatastructures\\mystack\\mystackarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031E95FA-3347-44F3-8E52-987F83574445}|MyStack\\MyStackLib.csproj|solutionrelative:mystack\\mystackarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8755707E-E46E-4DAA-8E13-23398E27EAB3}|MyBinaryTreeProj\\MyBinaryTreeProj.csproj|c:\\users\\user\\onedrive\\desktop\\mydatastructures_(0)\\mydatastructures\\mybinarytreeproj\\mybinarytreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8755707E-E46E-4DAA-8E13-23398E27EAB3}|MyBinaryTreeProj\\MyBinaryTreeProj.csproj|solutionrelative:mybinarytreeproj\\mybinarytreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyLinkedListNode.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\MyDataStructures_(0)\\MyDataStructures\\MyLinkedList\\MyLinkedListNode.cs",
+              "RelativeDocumentMoniker": "MyLinkedList\\MyLinkedListNode.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\MyDataStructures_(0)\\MyDataStructures\\MyLinkedList\\MyLinkedListNode.cs",
+              "RelativeToolTip": "MyLinkedList\\MyLinkedListNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T06:07:19.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyStackArray.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\MyDataStructures_(0)\\MyDataStructures\\MyStack\\MyStackArray.cs",
+              "RelativeDocumentMoniker": "MyStack\\MyStackArray.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\MyDataStructures_(0)\\MyDataStructures\\MyStack\\MyStackArray.cs",
+              "RelativeToolTip": "MyStack\\MyStackArray.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:47:54.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\MyDataStructures_(0)\\MyDataStructures\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\MyDataStructures_(0)\\MyDataStructures\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T20:25:33.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyQueue.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\MyDataStructures_(0)\\MyDataStructures\\MyQueueLib\\MyQueue.cs",
+              "RelativeDocumentMoniker": "MyQueueLib\\MyQueue.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\MyDataStructures_(0)\\MyDataStructures\\MyQueueLib\\MyQueue.cs",
+              "RelativeToolTip": "MyQueueLib\\MyQueue.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T20:18:09.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyBinaryTreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\Desktop\\MyDataStructures_(0)\\MyDataStructures\\MyBinaryTreeProj\\MyBinaryTreeNode.cs",
+              "RelativeDocumentMoniker": "MyBinaryTreeProj\\MyBinaryTreeNode.cs",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\Desktop\\MyDataStructures_(0)\\MyDataStructures\\MyBinaryTreeProj\\MyBinaryTreeNode.cs",
+              "RelativeToolTip": "MyBinaryTreeProj\\MyBinaryTreeNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T04:33:47.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

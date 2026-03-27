@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IIWUNyDnLYE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Desktop\\MyDataStructures_(0)\\MyDataStructures\\MyStack\\MyStackLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

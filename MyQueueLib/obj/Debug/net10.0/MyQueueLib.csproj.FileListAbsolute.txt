@@ -1,0 +1,16 @@
+C:\Users\Tigran\Desktop\ds\MyQueueLib\bin\Debug\net10.0\MyQueueLib.deps.json
+C:\Users\Tigran\Desktop\ds\MyQueueLib\bin\Debug\net10.0\MyQueueLib.dll
+C:\Users\Tigran\Desktop\ds\MyQueueLib\bin\Debug\net10.0\MyQueueLib.pdb
+C:\Users\Tigran\Desktop\ds\MyQueueLib\bin\Debug\net10.0\MyLinkedList.dll
+C:\Users\Tigran\Desktop\ds\MyQueueLib\bin\Debug\net10.0\MyLinkedList.pdb
+C:\Users\Tigran\Desktop\ds\MyQueueLib\obj\Debug\net10.0\MyQueueLib.csproj.AssemblyReference.cache
+C:\Users\Tigran\Desktop\ds\MyQueueLib\obj\Debug\net10.0\MyQueueLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tigran\Desktop\ds\MyQueueLib\obj\Debug\net10.0\MyQueueLib.AssemblyInfoInputs.cache
+C:\Users\Tigran\Desktop\ds\MyQueueLib\obj\Debug\net10.0\MyQueueLib.AssemblyInfo.cs
+C:\Users\Tigran\Desktop\ds\MyQueueLib\obj\Debug\net10.0\MyQueueLib.csproj.CoreCompileInputs.cache
+C:\Users\Tigran\Desktop\ds\MyQueueLib\obj\Debug\net10.0\MyQueueLib.sourcelink.json
+C:\Users\Tigran\Desktop\ds\MyQueueLib\obj\Debug\net10.0\MyQueueLib.csproj.Up2Date
+C:\Users\Tigran\Desktop\ds\MyQueueLib\obj\Debug\net10.0\MyQueueLib.dll
+C:\Users\Tigran\Desktop\ds\MyQueueLib\obj\Debug\net10.0\refint\MyQueueLib.dll
+C:\Users\Tigran\Desktop\ds\MyQueueLib\obj\Debug\net10.0\MyQueueLib.pdb
+C:\Users\Tigran\Desktop\ds\MyQueueLib\obj\Debug\net10.0\ref\MyQueueLib.dll

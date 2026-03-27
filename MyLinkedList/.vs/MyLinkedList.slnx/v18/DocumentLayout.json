@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tigran\\Desktop\\csharp\\MyLinkedList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tigran\\source\\repos\\Test\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tigran\\source\\repos\\MyStack\\MyStackLib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tigran\\source\\repos\\MyStack\\MyStack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9952A8-1BCF-21B5-7775-0089D399A5C1}|MyLinkedList.csproj|c:\\users\\tigran\\desktop\\csharp\\mylinkedlist\\mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9952A8-1BCF-21B5-7775-0089D399A5C1}|MyLinkedList.csproj|solutionrelative:mylinkedlistnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9952A8-1BCF-21B5-7775-0089D399A5C1}|MyLinkedList.csproj|c:\\users\\tigran\\desktop\\csharp\\mylinkedlist\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9952A8-1BCF-21B5-7775-0089D399A5C1}|MyLinkedList.csproj|solutionrelative:mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tigran\\source\\repos\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Test\\Program.cs",
+              "ToolTip": "C:\\Users\\Tigran\\source\\repos\\Test\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:04:28.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyStackLib.csproj",
+              "DocumentMoniker": "C:\\Users\\Tigran\\source\\repos\\MyStack\\MyStackLib.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\MyStack\\MyStackLib.csproj",
+              "ToolTip": "C:\\Users\\Tigran\\source\\repos\\MyStack\\MyStackLib.csproj",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\MyStack\\MyStackLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T21:59:57.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "C:\\Users\\Tigran\\source\\repos\\MyStack\\MyStack.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\MyStack\\MyStack.cs",
+              "ToolTip": "C:\\Users\\Tigran\\source\\repos\\MyStack\\MyStack.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\MyStack\\MyStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:00:05.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyLinkedListNode.cs",
+              "DocumentMoniker": "C:\\Users\\Tigran\\Desktop\\csharp\\MyLinkedList\\MyLinkedListNode.cs",
+              "RelativeDocumentMoniker": "MyLinkedListNode.cs",
+              "ToolTip": "C:\\Users\\Tigran\\Desktop\\csharp\\MyLinkedList\\MyLinkedListNode.cs",
+              "RelativeToolTip": "MyLinkedListNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:57:45.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Tigran\\Desktop\\csharp\\MyLinkedList\\MyLinkedList.cs",
+              "RelativeDocumentMoniker": "MyLinkedList.cs",
+              "ToolTip": "C:\\Users\\Tigran\\Desktop\\csharp\\MyLinkedList\\MyLinkedList.cs",
+              "RelativeToolTip": "MyLinkedList.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:57:07.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
